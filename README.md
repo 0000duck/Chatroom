@@ -1,3 +1,3 @@
 # Chatroom
 Project for IS301 Computer Network.  
-This project is done with C# and Visual Studio 2017.
+This project is done with C# and socket.
